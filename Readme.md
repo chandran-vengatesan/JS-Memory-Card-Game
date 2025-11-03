@@ -24,7 +24,7 @@ Clone the repository:
 
 Bash
 
-git clone <repo-url>
+git clone https://github.com/chandran-vengatesan/JS-Memory-Card-Game
 Navigate to the project directory:
 
 Bash
